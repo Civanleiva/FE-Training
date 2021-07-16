@@ -30,3 +30,7 @@
 ## Libraries
 
 - [Flexboxgrid](http://flexboxgrid.com/)
+
+## Fonts
+
+- [Open Sans](https://fonts.google.com/specimen/Open+Sans#standard-styles)
