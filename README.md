@@ -37,3 +37,7 @@
 ## Fonts
 
 - [Open Sans](https://fonts.google.com/specimen/Open+Sans#standard-styles)
+
+## Templates
+- [Bootstrap starter template](https://getbootstrap.com/docs/4.0/examples/starter-template)
+- [Foundation for sites HTML Templates](https://get.foundation/templates.html)
