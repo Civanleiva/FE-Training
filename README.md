@@ -26,6 +26,7 @@
 - [Mastering Wrapping of Flex Items](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Mastering_Wrapping_of_Flex_Items)
 - [Digging Into the Flex Property](https://ishadeed.com/article/css-flex-property/)
 - [Building Skeleton Screens with CSS Custom Properties](https://css-tricks.com/building-skeleton-screens-css-custom-properties/)
+- [Responsive grids and how to actually use them](https://uxdesign.cc/responsive-grids-and-how-to-actually-use-them-970de4c16e01)
 
 ## Libraries
 
