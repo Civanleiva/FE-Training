@@ -30,6 +30,8 @@
 - [Bootstrap 4 Get Started](https://www.w3schools.com/bootstrap4/bootstrap_get_started.asp)
 - [Getting Started With Foundation 5](https://get.foundation/sites/docs-v5/index.html)
 - [Responsive Design Basics](https://web.dev/responsive-web-design-basics/)
+- [ES6 Tutorial](https://www.javascripttutorial.net/es6/)
+- [Build a simple card skeleton loader component using HTML and CSS.](https://dev.to/devggaurav/build-a-simple-card-skeleton-loader-component-using-html-and-css-3a20)
 
 ## Libraries
 
