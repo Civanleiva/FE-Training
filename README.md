@@ -35,6 +35,7 @@
 - [ES6 Tutorial](https://www.javascripttutorial.net/es6/)
 - [Build a simple card skeleton loader component using HTML and CSS.](https://dev.to/devggaurav/build-a-simple-card-skeleton-loader-component-using-html-and-css-3a20)
 - [Smooth as Butter: Achieving 60 FPS Animations with CSS3](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108)
+- [How to Use Object Destructuring in JavaScript](https://dmitripavlutin.com/javascript-object-destructuring/)
 
 ## Libraries
 
