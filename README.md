@@ -17,6 +17,7 @@
 - [Here's how React's New Context API Works](https://www.youtube.com/watch?v=XLJN4JfniH4)
 - [Adobe XD For Front End Developers](https://www.youtube.com/watch?v=A-RcxjcmbB8)
 - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [Namaste Javascript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 
 ## Articles
 
