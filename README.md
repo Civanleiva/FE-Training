@@ -18,6 +18,7 @@
 - [Adobe XD For Front End Developers](https://www.youtube.com/watch?v=A-RcxjcmbB8)
 - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [Namaste Javascript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+- [sum(1)(2)(3)(4)..( n)() | Amazon UI/Frontend Javascript Interview Question](https://www.youtube.com/watch?v=D5ENjfSkHY4)
 
 ## Articles
 
